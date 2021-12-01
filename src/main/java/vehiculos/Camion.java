@@ -2,7 +2,6 @@ package vehiculos;
 
 public class Camion extends Vehiculo{
 
-	
 	private int ejes; 
 	private static int camiones; 
 
@@ -17,8 +16,6 @@ public class Camion extends Vehiculo{
 		
 	}
 
-	
-	
 	
 	public int getEjes() {
 		return ejes;
